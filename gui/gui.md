@@ -47,7 +47,61 @@ GUI 프로그래밍
   
 <img src="gridLayout.png" width="500"/>
 
+### 2.4 Panel 클래스
+- Container 클래스로부터 상속된 클래스로서 컴포넌트들을 담는 그릇역할을 하는 클래스
+- 애플릿에 여러 개의 Panel 객체를 생성.
+  각각의 Panel 객체에 배치관리자를 설정하여 컴포넌트들을 배치할 수 있다.
+  
+예제 1)
+```
 
+public class MyPanel extends JFrame{
+	/*
+	 * Container	클래스로부터 상속된 클래스로서 컴포넌트들을 담는 그릇역할을 하는 클래스
+	 * 각각의 Panel 객체에 배치관리자를 설정하여 컴포넌트를 배치할 수 있다.
+	 */
+	BorderLayout layout = new BorderLayout();
 
+	JPanel pan1 = new JPanel();
+	JPanel pan2 = new JPanel();
+	JPanel pan3 = new JPanel();
+	JTextArea ta = new JTextArea();
+	
+	JButton button1 = new JButton("three");
+	
+	public MyPanel() {
+		
+		pan1.setBackground(Color.green);
+		pan2.setBackground(Color.blue);
+		pan3.setBackground(Color.red);
+		
+		pan1.add(new Button("one"));
+		pan1.add(new Button("two"));
+		
+		button1.setBackground(Color.YELLOW);
+		button1.setOpaque(true);
+		button1.setBorderPainted(false);
+		pan2.add(button1);
+		
+
+		pan3.add(new Button("four"));
+		pan3.add(new Button("five"));
+		pan3.add(new Button("six"));
+		
+		setLayout(layout);
+		add(pan1, "North");
+		add(pan2, "Center");
+		add(pan3, "South");
+		
+		setSize(200, 130);
+		setVisible(true);
+	}
+	
+	public static void main(String[] args) {
+		new MyPanel();
+	}
+}
+
+```
      
   
