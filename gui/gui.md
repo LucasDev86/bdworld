@@ -21,7 +21,7 @@ GUI 프로그래밍
 ##### 2.1 FlowLayout
 - 컴포넌트를 일렬로 배치
 
-![Alt text]<img src="flowLayout.png" width="500"/>
+<img src="flowLayout.png" width="500"/>
 
 ##### 2.2 BorderLayout
 - 컴포넌트를 추가할 때 방향을 지정하여 추가할 수 있는 기능을 제공, 지정할 수 있는 레이아웃 매니저
@@ -34,7 +34,20 @@ GUI 프로그래밍
   - 컴포넌트를 추가하는 add() 메소드에 방향을 지정
   - void add(String name, Component comp)
     
-![Alt text]<img src="borderLayout.png" width="500"/>
+<img src="borderLayout.png" width="500"/>
+
+##### 2.3 Gridlayout
+- 컴포넌트를 행과 열을 가진 배열 형태로 배치하는 레이아웃 매니저
+- 생성자
+  - Gridlayout()
+  - Gridlayout(int rows, int cols)
+  - Gridlayout(int rows, int cols, int hgap, int vgap)
+  - rows, cols : 배치할 행과 열
+  - hgap, vgap : 컴포넌트들 사이의 간격, 픽셀 단위
+  
+<img src="gridLayout.png" width="500"/>
+
+
 
      
   
