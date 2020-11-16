@@ -104,4 +104,7 @@ public class MyPanel extends JFrame{
 
 ```
      
+[실행결과]
+
+<img src="panel.png" width="300"/>
   
