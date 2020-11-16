@@ -46,7 +46,6 @@ GUI 프로그래밍
   - rows, cols : 배치할 행과 열
   - hgap, vgap : 컴포넌트들 사이의 간격, 픽셀 단위
 
-[실행결과]  
 <img src="gridLayout.png" width="500"/>
 
 ### 2.4 Panel 클래스
