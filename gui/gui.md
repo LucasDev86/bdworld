@@ -7,7 +7,7 @@ GUI 프로그래밍
 
   <img src="awt.png" width="800"/>
 
-##### 1.1 Container 클래스
+### 1.1 Container 클래스
 - 컴포넌트를 담는 그릇 역할을 하는 클래스
 - Frame, Window, Dialog, FileDialog, Panel, Applet 등의 하위 클래스를 가지고 있다
   컨테이너는 서브(Sub) 컨테이너를 가질 수 있다.
@@ -18,12 +18,12 @@ GUI 프로그래밍
   레이아웃 매니저(Layout Manager)라는 것을 포함하고 있으며 레이아웃 매니저는 컨테이너 객체에 소속되어
   있는 자식 컴포넌트들의 배치를 도와주는 객체이다.
   
-##### 2.1 FlowLayout
+### 2.1 FlowLayout
 - 컴포넌트를 일렬로 배치
 
 <img src="flowLayout.png" width="500"/>
 
-##### 2.2 BorderLayout
+### 2.2 BorderLayout
 - 컴포넌트를 추가할 때 방향을 지정하여 추가할 수 있는 기능을 제공, 지정할 수 있는 레이아웃 매니저
 - 방향은 동, 서, 남, 북, 중앙 다섯개의 영역으로 배치한다.
 - East, West, South, North, Center
@@ -36,7 +36,7 @@ GUI 프로그래밍
     
 <img src="borderLayout.png" width="500"/>
 
-##### 2.3 Gridlayout
+### 2.3 Gridlayout
 - 컴포넌트를 행과 열을 가진 배열 형태로 배치하는 레이아웃 매니저
 - 생성자
   - Gridlayout()
