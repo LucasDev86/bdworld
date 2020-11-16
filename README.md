@@ -2,7 +2,7 @@
 
 ### 자바(Swing)
 - [GUI 프로그래밍](https://github.com/LucasDev86/bdworld/blob/main/gui/gui.md)
-- [도전과제1](https://github.com/LucasDev86/bdworld/blob/main/gui/01_ 도전과제.md)
+- [도전과제1] (https://github.com/LucasDev86/bdworld/blob/main/gui/01_도전과제.md)
   - 로또생성기
   - 가위바위보
 
