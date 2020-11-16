@@ -118,7 +118,7 @@ public class MyPanel extends JFrame{
    
 ### 3.1 스윙 컴포넌트 상속도
 
-<img src="swing.png" width="300"/>
+<img src="swing.png" width="800"/>
 
 
 
