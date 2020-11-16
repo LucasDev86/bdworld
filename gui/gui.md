@@ -21,45 +21,6 @@ GUI 프로그래밍
 ### 2.1 FlowLayout
 - 컴포넌트를 일렬로 배치
 
-```
-public class MyFlowLayout extends JFrame{
-
-	/*
-	FlowLayout은 배치관리자 (LayoutManager) 중 하나이며
-	컴포넌트를 일렬로 배치합니다.
-	 */
-	
-	FlowLayout layout = new FlowLayout();
-	Button btn1 = new Button("Button1");
-	Button btn2 = new Button("Button2");
-	Button btn3 = new Button("Button3");
-	Button btn4 = new Button("Button4");
-	
-	
-	public MyFlowLayout() {
-		super("윈도우 이벤");
-		setSize(300,200);
-		setVisible(true);
-		setLayout(layout);
-		
-		btn1.setForeground(Color.red);
-		
-		add(btn1);
-		add(btn2);
-		add(btn3);
-		add(btn4);
-		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE); //종료했을때 메모리상에서도 사라지게 하기
-	}
-	
-	
-	public static void main(String[] args) {
-		MyFlowLayout one = new MyFlowLayout();
-	}
-
-}
-
-```
-
 [실행결과]
 <img src="flowLayout.png" width="500"/>
 
@@ -84,47 +45,7 @@ public class MyFlowLayout extends JFrame{
   - Gridlayout(int rows, int cols, int hgap, int vgap)
   - rows, cols : 배치할 행과 열
   - hgap, vgap : 컴포넌트들 사이의 간격, 픽셀 단위
-  
-```
-public class GridLayout extends JFrame{
 
-	/*
-	 * GridLayout은 행과 열을 가진 배열 형태로 배치하는 레이아웃 매니저 
-	 * rows, cols 배치할 행과열 
-	 */
-	
-	 //생성자
-	public GridLayout() {
-		setSize(300, 200);
-		setVisible(true);
-		setTitle("Grid 레이아웃");
-		setLayout(new java.awt.GridLayout(3, 2));
-		
-		 JButton button1 = new JButton("Button1");
-		 JButton button2 = new JButton("Button2");
-		 JButton button3 = new JButton("Button3");
-		 JButton button4 = new JButton("Button4");
-		 JButton button5 = new JButton("Button5");
-		 
-		 add(button1);
-		 add(button2);
-		 add(button3);
-		 add(button4);
-		 add(button5);
-		 
-		 
-		
-	}
-	
-	public static void main(String[] args) {
-		GridLayout one = new GridLayout();
-
-	}
-
-}
-
-```
-  
 [실행결과]  
 <img src="gridLayout.png" width="500"/>
 
