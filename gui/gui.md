@@ -21,7 +21,6 @@ GUI 프로그래밍
 ### 2.1 FlowLayout
 - 컴포넌트를 일렬로 배치
 
-[실행결과]
 <img src="flowLayout.png" width="500"/>
 
 ### 2.2 BorderLayout
