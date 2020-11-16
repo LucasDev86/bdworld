@@ -45,6 +45,47 @@ GUI 프로그래밍
   - rows, cols : 배치할 행과 열
   - hgap, vgap : 컴포넌트들 사이의 간격, 픽셀 단위
   
+```
+public class GridLayout extends JFrame{
+
+	/*
+	 * GridLayout은 행과 열을 가진 배열 형태로 배치하는 레이아웃 매니저 
+	 * rows, cols 배치할 행과열 
+	 */
+	
+	 //생성자
+	public GridLayout() {
+		setSize(300, 200);
+		setVisible(true);
+		setTitle("Grid 레이아웃");
+		setLayout(new java.awt.GridLayout(3, 2));
+		
+		 JButton button1 = new JButton("Button1");
+		 JButton button2 = new JButton("Button2");
+		 JButton button3 = new JButton("Button3");
+		 JButton button4 = new JButton("Button4");
+		 JButton button5 = new JButton("Button5");
+		 
+		 add(button1);
+		 add(button2);
+		 add(button3);
+		 add(button4);
+		 add(button5);
+		 
+		 
+		
+	}
+	
+	public static void main(String[] args) {
+		GridLayout one = new GridLayout();
+
+	}
+
+}
+
+```
+  
+[실행결과]  
 <img src="gridLayout.png" width="500"/>
 
 ### 2.4 Panel 클래스
