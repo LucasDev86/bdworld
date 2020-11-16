@@ -56,10 +56,7 @@ GUI 프로그래밍
 ```
 
 public class MyPanel extends JFrame{
-	/*
-	 * Container	클래스로부터 상속된 클래스로서 컴포넌트들을 담는 그릇역할을 하는 클래스
-	 * 각각의 Panel 객체에 배치관리자를 설정하여 컴포넌트를 배치할 수 있다.
-	 */
+	
 	BorderLayout layout = new BorderLayout();
 
 	JPanel pan1 = new JPanel();
