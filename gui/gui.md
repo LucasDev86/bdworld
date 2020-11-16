@@ -33,8 +33,8 @@ GUI 프로그래밍
   - hgap, vgap : 컴포넌트들 사이의 간격을 의미하며 픽셀단위로 지정
   - 컴포넌트를 추가하는 add() 메소드에 방향을 지정
   - void add(String name, Component comp)
-<br/>      
+    
   <img src="borderLayout.png" width="500"/>
-<br/>
+
      
   
