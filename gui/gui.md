@@ -21,6 +21,46 @@ GUI 프로그래밍
 ### 2.1 FlowLayout
 - 컴포넌트를 일렬로 배치
 
+```
+public class MyFlowLayout extends JFrame{
+
+	/*
+	FlowLayout은 배치관리자 (LayoutManager) 중 하나이며
+	컴포넌트를 일렬로 배치합니다.
+	 */
+	
+	FlowLayout layout = new FlowLayout();
+	Button btn1 = new Button("Button1");
+	Button btn2 = new Button("Button2");
+	Button btn3 = new Button("Button3");
+	Button btn4 = new Button("Button4");
+	
+	
+	public MyFlowLayout() {
+		super("윈도우 이벤");
+		setSize(300,200);
+		setVisible(true);
+		setLayout(layout);
+		
+		btn1.setForeground(Color.red);
+		
+		add(btn1);
+		add(btn2);
+		add(btn3);
+		add(btn4);
+		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE); //종료했을때 메모리상에서도 사라지게 하기
+	}
+	
+	
+	public static void main(String[] args) {
+		MyFlowLayout one = new MyFlowLayout();
+	}
+
+}
+
+```
+
+[실행결과]
 <img src="flowLayout.png" width="500"/>
 
 ### 2.2 BorderLayout
