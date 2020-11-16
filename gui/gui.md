@@ -22,7 +22,7 @@ GUI 프로그래밍
 - 컴포넌트를 일렬로 배치
 <br/>
   <img src="flowLayout.png" width="500"/>
-  <br/>
+<br/>
 ##### 2.2 BorderLayout
 - 컴포넌트를 추가할 때 방향을 지정하여 추가할 수 있는 기능을 제공, 지정할 수 있는 레이아웃 매니저
 - 방향은 동, 서, 남, 북, 중앙 다섯개의 영역으로 배치한다.
@@ -33,8 +33,8 @@ GUI 프로그래밍
   - hgap, vgap : 컴포넌트들 사이의 간격을 의미하며 픽셀단위로 지정
   - 컴포넌트를 추가하는 add() 메소드에 방향을 지정
   - void add(String name, Component comp)
-  <br/>      
+<br/>      
   <img src="borderLayout.png" width="500"/>
-  <br/>
+<br/>
      
   
