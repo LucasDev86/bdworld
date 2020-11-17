@@ -6,6 +6,7 @@
   * https://github.com/LucasDev86/bdworld/blob/main/gui/01_도전과제.md
     - 로또생성기
     - 가위바위보
+    - 계산기
     
 3. 프로젝트_중급
 4. 만들고 싶은 프로그램
