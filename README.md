@@ -44,7 +44,7 @@
 
 
 
- [안드로이드 참고 - 깡샘의 안드로이드 프로그래밍](https://github.com/kkangseongyun/kkangs_android_2019) 
+ [안드로이드 참고 - 깡샘의 안드로이드 프로그래밍] (https://github.com/kkangseongyun/kkangs_android_2019) 
       
       
       
