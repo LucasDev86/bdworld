@@ -19,7 +19,7 @@
 >   * 1.2. 첫번째 앱 만들고 실행하기
 >   * 1.3. 앱 배포
 > 
-> - **2장. 안드로이드 프로젝트 이해**
+> - [**2장. 안드로이드 프로젝트 이해**](https://github.com/LucasDev86/bdworld/blob/main/pdf_1장-10장/2장.%20안드로이드%20프로젝트%20이해.pdf)
 >   * 2.1. 안드로이드 앱 개발 특징
 >   * 2.2. 개발 디렉토리와 파일 구조
 >   * 2.3. 그레이들(gradle) 파일
@@ -28,33 +28,33 @@
 
 >**Part2: 기본 앱을 만들기**
 > 
->- **3장. 사용자 인터페이스**
+>- [**3장. 사용자 인터페이스**](https://github.com/LucasDev86/bdworld/blob/main/pdf_1장-10장/3장.%20사용자%20인터페이스.pdf)
 >   * 3.1. UI 기본 구조
 >   * 3.2. 뷰 아키텍처
 >   * 3.3. 기초 뷰 활용
->- **4장. 레이아웃을 활용한 다양한 뷰 배치**
+>- [**4장. 레이아웃을 활용한 다양한 뷰 배치**](https://github.com/LucasDev86/bdworld/blob/main/pdf_1장-10장/4장.%20레이아웃을%20활용한%20다양한%20뷰%20배치.pdf)
 >   * 4.1. LinearLayout
 >   * 4.2. RelativeLayout
 >   * 4.3. FrameLayout
 >   * 4.4. TabaleLayout
 >   * 4.5. GridLayout
 >   * 4.6. ConstraintLayout
->- **5장. 다양한 사용자 알림 효과**
+>- [**5장. 다양한 사용자 알림 효과**](https://github.com/LucasDev86/bdworld/blob/main/pdf_1장-10장/5장.%20다양한%20사용자%20알림%20효과.pdf)
 >   * 5.1. 진동과 소리
 >   * 5.2. 다이얼로그
->- **6장. 사용자 이벤트 처리**
+>- [**6장. 사용자 이벤트 처리**](https://github.com/LucasDev86/bdworld/blob/main/pdf_1장-10장/6장.%20사용자%20이벤트%20처리.pdf)
 >   * 6.1. Delegation Event Model
 >   * 6.2. Hierarchy Event Model
->- **7장. 리소스 활용 및 스마트폰 크기 호환성**
+>- [**7장. 리소스 활용 및 스마트폰 크기 호환성**](https://github.com/LucasDev86/bdworld/blob/main/pdf_1장-10장/7장.%20리소스%20활용%20및%20스마트폰%20크기%20호환성.pdf)
 >   * 7.1. 안드로이드 리소스
 >   * 7.2. 스마트폰 크기 호환성
 
 >**Part3 : 앱의 데이터를 영속화하자**
 > 
->- **8장. DBMS을 이용한 데이터 영속화**
+>- [**8장. DBMS을 이용한 데이터 영속화**](https://github.com/LucasDev86/bdworld/blob/main/pdf_1장-10장/8장.%20DBMS을%20이용한%20데이터%20영속화.pdf)
 >   * 8.1. SQLite을 이용한 영속화
 >   * 8.2. Realm을 이용한 데이터 영속화
->- **9장. 파일 및 SharedPreferences을 이용한 데이터 영속화**
+>- [**9장. 파일 및 SharedPreferences을 이용한 데이터 영속화**](https://github.com/LucasDev86/bdworld/blob/main/pdf_1장-10장/9장.%20파일%20및%20SharedPreferences을%20이용한%20데이터%20영속화.pdf)
 >   * 9.1. 퍼미션
 >   * 9.2. 파일에 읽고 쓰기
 >   * 9.3. SharedPreferences
