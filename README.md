@@ -59,27 +59,27 @@
 
 >**Part4: 다양한 화면을 구성하자**
 > 
-> - **[10장. AdapterView 활용**](https://github.com/LucasDev86/bdworld/blob/main/pdf_1장-10장/10장.%20AdapterView%20활용.pdf)
+> - [**10장. AdapterView 활용**](https://github.com/LucasDev86/bdworld/blob/main/pdf_1장-10장/10장.%20AdapterView%20활용.pdf)
 >   * 10.1. Adapter와 AdapterView
 >   * 10.2. 커스텀 Adapter
-> - **11장. 다양한 뷰 활용**
+> - [**11장. 다양한 뷰 활용**]
 >   * 11.1. Spannable
 >   * 11.2. WebView
 >   * 11.3. 기타 유용한 뷰
-> - **12장. ActionBar와 메뉴**
+> - [**12장. ActionBar와 메뉴**]
 >   * 12.1. ActionBar
 >   * 12.2. 안드로이드 API Level과 하위 호환성
 >   * 12.3. 메뉴
-> - **13장. 커스텀 뷰 개발**
+> - [**13장. 커스텀 뷰 개발**]
 >   * 13.1. 커스텀 뷰 작성 방법
 >   * 13.2. 그래픽 프로그램
 
 >**Part5: 액티비티를 제대로 이해하고 개발하자**
 > 
-> - **14장. Intent와 구글 기본 앱 연동**
+> - [**14장. Intent와 구글 기본 앱 연동**]
 >   * 14.1. Intent
 >   * 14.2. 구글 기본 앱 연동
-> - **15장. 액티비티 생명주기 및 다양한 제어**
+> - [**15장. 액티비티 생명주기 및 다양한 제어**]
 >   * 15.1. 액티비티 생명주기
 >   * 15.2. 태스크 관리
 >   * 15.3. 액티비티를 위한 다양한 설정
@@ -89,12 +89,12 @@
 
 >**Part6: 상용 앱 수준의 화면을 구성하자**
 > 
-> - **17장. Support 라이브러리 활용**
+> - [**17장. Support 라이브러리 활용**]
 >   * 17.1. Fragment
 >   * 17.2. PreferenceFragmentCompat 을 이용한 앱 설정
 >   * 17.3. ViewPager
 >   * 17.4. RecyclerView
-> - **18장. 머티리얼 디자인**
+> - [**18장. 머티리얼 디자인**]
 >   * 18.1. NavigationDrawer, NavigationView
 >   * 18.2. Snackbar, FloatingAcitonButton, TabLayout
 >   * 18.3. Toolbar, AppBarLayout, CoordinationLayout
@@ -102,45 +102,45 @@
 
 >**Part7: 컴포넌트를 제대로 이해하고 개발하자.**
 > 
-> - **19장. BroadcastReceiver와 Notification**
+> - [**19장. BroadcastReceiver와 Notification**]
 >   * 19.1. BroadcastReceiver
 >   * 19.2. Notification
-> - **20장. Service 컴포넌트**
+> - [**20장. Service 컴포넌트**]
 >   * 20.1. Service 기본 개념
 >   * 20.2. AIDL의 이해
 >   * 20.3. IntentService
 >   * 20.4. 시스템 서비스
 >   * 20.5. 백그라운드 서비스 제한
-> - **21장. ContentProvider**
+> - [**21장. ContentProvider**]
 >   * 21.1. ContentProvider 이해
 >   * 21.2. 구글 기본 앱의 ContentProvider 이용
 >   * 21.3. 갤러리 앱 연동과 이미지 이용을 위한 라이브러리
 
 >**Part8: 위치 기반 서비스를 제공하자**
 > 
-> - **22장. 위치 정보 획득**
+> - [**22장. 위치 정보 획득**]
 >   * 22.1. LocationManager 이용
 >   * 22.2. Fused Location API 이용
-> - **23장. 지도 활용**
+> - [**23장. 지도 활용**]
 >   * 23.1. 지도 출력
 >   * 23.2. 구글 지도 제어
 
 >**Part9: 서버 데이터를 활용하자.**
 > 
->- **24장. 네트워크 정보 활용**
+>- [**24장. 네트워크 정보 활용**]
 >   * 24.1. 다양한 네트워크 정보 활용
 >   * 24.2. XML, JSON 데이터 파싱
->- **25장. HTTP 통신**
+>- [**25장. HTTP 통신**]
 >   * 25.1. Java API를 이용한 HTTP 통신
 >   * 25.2. Volley API를 이용한 HTTP 통신
 >   * 25.3. Retrofit2
->- **26장. 실시간 서버 푸시**
+>- [**26장. 실시간 서버 푸시**]
 >   * 26.1. 소켓 프로그램
 >   * 26.2. Firebase Cloud Message
 
 >**Part10: Android Architecture Component (AAC)**
 > 
-> - **27장. 데이터 바인딩**
+> - [**27장. 데이터 바인딩**]
 >   * 27.1. JetPack 과 AAC
 >   * 27.2. 데이터 바인딩 vs ButterKnife vs findViewById
 >   * 27.3. 데이터 바인딩 기초
@@ -150,15 +150,15 @@
 >   * 27.7. 바인딩 연산식
 >   * 27.8. Observable 모델
 >   * 27.9. BindingAdapter
-> - **28장. ViewModel 과 LiveData**
+> - [**28장. ViewModel 과 LiveData**]
 >   * 28.1. ViewModel
 >   * 28.2. LiveData
-> - **29장. Room**
+> - [**29장. Room**]
 >   * 29.1. Room 이란?
 >   * 29.2. Room Entity
 >   * 29.3. DAOs
 >   * 29.4. 데이터베이스 스키마 변경
-> - **30장. WorkManager, Lifecycle aware Components, Paging**
+> - [**30장. WorkManager, Lifecycle aware Components, Paging**]
 >   * 30.1. WorkManager
 >   * 30.2. Lifecycle aware Components
 >   * 30.3. Paging
