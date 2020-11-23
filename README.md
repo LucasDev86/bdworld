@@ -44,6 +44,7 @@
 
 
 
-### 안드로이드 참고서적 
-   * 깡샘의 안드로이드 프로그래밍 (https://github.com/kkangseongyun/kkangs_android_2019)       
+### 참고서적 
+   * 자바 - 자바의 정석
+   * 안드로이드 - 깡샘의 안드로이드 프로그래밍 (https://github.com/kkangseongyun/kkangs_android_2019)       
       
