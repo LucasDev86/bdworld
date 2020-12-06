@@ -24,6 +24,14 @@
 - 힌트
   - JLabel 컴포넌트의 위치를 랜덤하게 설정하기 위해 (x,y) 좌표는 다음과 같이 구한다.
   
+```
+int x = (int) (Math.random()*200) + 50; // 50~250
+int y = (int) (Math.random()*200) + 50; // 50~250
+label.setLocation(x,y); // label을 (x,y)에 배치
+label.setSize(10,10); // label 크기를 10x10으로 설정
+label.setOpaque(true); // label에 
+```
+
 <img src="06.png" width="320"/>    
   
 
