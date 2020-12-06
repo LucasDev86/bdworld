@@ -1,6 +1,6 @@
 
 ## GUI 실습문제
-### 1. "Let's study Java"라는 문자열을 타이틀로 가지고 프레임의 크기가 400*200인 스윙 프로그램을 작성하라.
+### 1. "Let's study Java"라는 문자열을 타이틀로 가지고 \n프레임의 크기가 400*200인 스윙 프로그램을 작성하라.
 <img src="01.png" width="320"/>  
   
 ### 2. BoderLayout을 사용하여 컴포넌트 사이의 수평 수직 간격이 각각 5픽셀, 7픽셀이 되도록 스윙 응용프로그램을 작성하라.
@@ -29,7 +29,7 @@ int x = (int) (Math.random()*200) + 50; // 50~250
 int y = (int) (Math.random()*200) + 50; // 50~250
 label.setLocation(x,y); // label을 (x,y)에 배치
 label.setSize(10,10); // label 크기를 10x10으로 설정
-label.setOpaque(true); // label에 
+label.setOpaque(true); // label에 배경색이 보이게함 
 ```
 
 <img src="06.png" width="320"/>    
