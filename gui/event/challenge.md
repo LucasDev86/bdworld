@@ -1,12 +1,13 @@
 
 
 ## GUI 실습문제
-### 1. "Let's study Java"라는 문자열을 타이틀로 가지고<br>프레임의 크기가 400*200인 스윙 프로그램을 작성하라.
+### 1. JLabel 컴포넌트는 Mouse 이벤트를 받을 수 있다. JLabel 컴포넌트에 마우스를 올리면<br> "Love Java"가, 내리면 "사랑해"가 출력되도록 스윙 응용프로그램을 작성하라.
 <img src="event/1.png" width="320"/>  
 <img src="event/2.png" width="320"/>  
   
-### 2. BoderLayout을 사용하여 컴포넌트 사이의 수평 수직 간격이<br>각각 5픽셀, 7픽셀이 되도록 스윙 응용프로그램을 작성하라.
-<img src="02.png" width="320"/>    
+### 2. 컨텐트팬의 배경색은 초록색으로 하고 마우스를 드래깅하는<br>동안만 노란색으로 유지하는 스윙 응용프로그램을 작성하라.
+<img src="event/3.png" width="320"/>  
+<img src="event/4.png" width="320"/>
 
 ### 3. GridLayout을 사용하여 다음 그림과 같이 한 줄에 10개의<br>버튼을 동일한 크기로 배치하는 스윙 프로그램을 작성하라.
 <img src="03.png" width="320"/>    
