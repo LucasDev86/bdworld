@@ -1,6 +1,6 @@
 
 
-## GUI 실습문제
+##  실습문제
 ### 1. JLabel 컴포넌트는 Mouse 이벤트를 받을 수 있다. JLabel 컴포넌트에 마우스를 올리면<br> "Love Java"가, 내리면 "사랑해"가 출력되도록 스윙 응용프로그램을 작성하라.
 <img src="event/1.png" width="320"/>   <img src="event/2.png" width="320"/>  
   
