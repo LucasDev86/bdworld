@@ -9,14 +9,15 @@
 <img src="event/3.png" width="320"/>  
 <img src="event/4.png" width="320"/>
 
-### 3. JLabel을 활용하여 "Love Java"를 출력하고 왼쪽 화살표 키 <Left> 키를 입력할 때마다 <br>"avaJ evoL"와 "Love Java"를 번갈아 출력하는 스윙 프로그램을 작성하라.<br>StringBuffer 클래스의 reverse() 메소드를 이용하여 구현하는 것과 JLabel에 포커스를 설정하는 것을 잊지 말아야 한다.
+### 3. JLabel을 활용하여 "Love Java"를 출력하고 왼쪽 화살표 키 <Left> 키를 입력할 때마다 <br>"avaJ evoL"와 "Love Java"를 번갈아 출력하는 스윙 프로그램을 작성하라.<br>StringBuffer 클래스의 reverse() 메소드를 이용하여 구현하는 것과<br>JLabel에 포커스를 설정하는 것을 잊지 말아야 한다.
 <img src="event/5.png" width="320"/>  
 <img src="event/6.png" width="320"/>  
 
-### 4. 문제 3을 수정하여 다음 결과와 같이<br>각 버튼의 배경색을 서로 다르게 설정하라.
+### 4. JLabel을 활용하여 "Love Java"를 출력하고 왼쪽 화살표 키 <Left> 키를 입력할 때마다 <br>"ove JavaL", "ve JavaLo", "e JavaLov" 등과 같이 계속 한 문자씩 왼쪽으로 이동하는<br>스윙 프로그램을 작성하라. 문자열의 이동은 String 클래스의 substring()메소드를 이용하여 구현하라.<br>String text = "Love Java"인 경우, text.substring(0, 1)은 "L"을 리턴하고,<br> text.substring(1)은 "ove Java"를 리턴한다.<br>JLabel에 포커스 설정하는 것을 잊지 말아야 한다.
 - 힌트
   - 컴포넌트의 배경색을 노란색으로 설정하려면 comp.setBackground(Color.YELLOW);로 하면된다.
-<img src="04.png" width="320"/>    
+<img src="event/7.png" width="320"/>  
+<img src="event/8.png" width="320"/>    
 
 ### 5. GridLayout을 이용하여 다음 그림과 같이<br>16개의 색을 배경색으로 하는 4*4 바둑판을 구성하라.
 
