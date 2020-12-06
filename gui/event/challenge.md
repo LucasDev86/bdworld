@@ -9,8 +9,9 @@
 <img src="event/3.png" width="320"/>  
 <img src="event/4.png" width="320"/>
 
-### 3. GridLayout을 사용하여 다음 그림과 같이 한 줄에 10개의<br>버튼을 동일한 크기로 배치하는 스윙 프로그램을 작성하라.
-<img src="03.png" width="320"/>    
+### 3. JLabel을 활용하여 "Love Java"를 출력하고 왼쪽 화살표 키 <Left> 키를 입력할 때마다 <br>"avaJ evoL"와 "Love Java"를 번갈아 출력하는 스윙 프로그램을 작성하라.<br>StringBuffer 클래스의 reverse() 메소드를 이용하여 구현하는 것과 JLabel에 포커스를 설정하는 것을 잊지 말아야 한다.
+<img src="event/5.png" width="320"/>  
+<img src="event/6.png" width="320"/>  
 
 ### 4. 문제 3을 수정하여 다음 결과와 같이<br>각 버튼의 배경색을 서로 다르게 설정하라.
 - 힌트
