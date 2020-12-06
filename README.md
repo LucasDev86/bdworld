@@ -194,5 +194,9 @@
 ### 참고서적 
    * 자바 - 자바의 정석
    * 안드로이드 - 깡샘의 안드로이드 프로그래밍 (https://github.com/kkangseongyun/kkangs_android_2019)   
-   * 코딩맛집 - (https://coding-restaurant.tistory.com/69)
+   * GUI (https://coding-restaurant.tistory.com/69)
+   * EVENT 
+   - (https://doqtqu.tistory.com/77?category=799165)
+   - (https://doqtqu.tistory.com/78?category=799165)
+   
       
