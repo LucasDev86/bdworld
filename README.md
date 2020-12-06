@@ -3,7 +3,8 @@
 ### 자바(Swing)
 1. [GUI 프로그래밍 설명](https://github.com/LucasDev86/bdworld/blob/main/gui/gui.md)
   - 기초실습문제
-    - 문제(https://github.com/LucasDev86/bdworld/blob/main/gui/swing/challenge.md)
+    - GUI 문제 (https://github.com/LucasDev86/bdworld/blob/main/gui/swing/challenge.md)
+    - EVENT 문제 (https://github.com/LucasDev86/bdworld/blob/main/gui/event/challenge.md)
 2. 프로젝트_초급
   * https://github.com/LucasDev86/bdworld/blob/main/gui/01_도전과제.md
     - 로또생성기
