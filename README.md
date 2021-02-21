@@ -65,7 +65,7 @@
 > - [**10장. AdapterView 활용**](https://github.com/LucasDev86/bdworld/blob/main/pdf_1장-10장/10장.%20AdapterView%20활용.pdf)
 >   * 10.1. Adapter와 AdapterView
 >   * 10.2. 커스텀 Adapter
-> - [**11장. 다양한 뷰 활용**](https://github.com/LucasDev86/bdworld/blob/main/pdf_11장-20장/11장.다양한 뷰 활용.pdf)
+> - [**11장. 다양한 뷰 활용**](https://github.com/LucasDev86/bdworld/blob/main/pdf_11장-20장/11장.%20다양한%20뷰%20활용.pdf)
 >   * 11.1. Spannable
 >   * 11.2. WebView
 >   * 11.3. 기타 유용한 뷰
