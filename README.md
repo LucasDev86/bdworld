@@ -35,7 +35,7 @@
 >   * 3.3. 기초 뷰 활용
 >- [**4장. 레이아웃을 활용한 다양한 뷰 배치**](https://github.com/LucasDev86/bdworld/blob/main/pdf_1장-10장/4장.%20레이아웃을%20활용한%20다양한%20뷰%20배치.pdf)
 >   * 4.1. LinearLayout (https://lktprogrammer.tistory.com/132?category=741470)
->   * 4.2. RelativeLayout
+>   * 4.2. RelativeLayout (https://lktprogrammer.tistory.com/133?category=741470)
 >   * 4.3. FrameLayout
 >   * 4.4. TabaleLayout
 >   * 4.5. GridLayout
