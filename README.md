@@ -202,4 +202,4 @@
 
    * https://blog.naver.com/javaking75/140158016710
    * https://lktprogrammer.tistory.com/category/Programming/Android%20%EA%B0%9C%EB%B0%9C?page=4
-      
+   * (https://kairo96.gitbooks.io/android/content/ch2.4.html)
