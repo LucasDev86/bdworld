@@ -201,5 +201,5 @@
      - (https://doqtqu.tistory.com/78?category=799165)
 
    * https://blog.naver.com/javaking75/140158016710
-   * https://medium.com/swlh/send-events-from-webview-to-firebase-analytics-28d278f0bf4d
+   * https://lktprogrammer.tistory.com/category/Programming/Android%20%EA%B0%9C%EB%B0%9C?page=4
       
