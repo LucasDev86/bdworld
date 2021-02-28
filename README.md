@@ -38,7 +38,7 @@
 >   * 4.2. RelativeLayout (https://lktprogrammer.tistory.com/133?category=741470)
 >   * 4.3. FrameLayout (https://lktprogrammer.tistory.com/134?category=741470)
 >   * 4.4. TabaleLayout
->   * 4.5. GridLayout
+>   * 4.5. GridLayout (https://lktprogrammer.tistory.com/136?category=741470)
 >   * 4.6. ConstraintLayout
 >- [**5장. 다양한 사용자 알림 효과**](https://github.com/LucasDev86/bdworld/blob/main/pdf_1장-10장/5장.%20다양한%20사용자%20알림%20효과.pdf)
 >   * 5.1. 진동과 소리
